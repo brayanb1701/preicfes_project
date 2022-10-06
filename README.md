@@ -1,2 +1,2 @@
-# preicfes_project
- Project about studying for ICFES exam (colombian exam for entering to university)
+# Preicfes_project
+Project about studying for ICFES exam (colombian exam for entering to university) using HTML5, CSS, PHP, Js, MySQL. It was developed using Xampp (ver. 8.1.10). Currently there are no questions, but the system overall works. To accelerate the process in frontend design, it was used a template with the corresponding credits to the designer.
